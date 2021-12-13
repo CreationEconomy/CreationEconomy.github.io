@@ -1,12 +1,12 @@
 # Build settings
-gems:
+plugins:
   - jemoji
   - jekyll-paginate
 
 # Site settings
 title: "창조의 블로그"
 description: > # this means to ignore newlines until "email:"
-   아무말 대잔치 블로그
+   ヽ(´▽｀)ノ♪
 
 email: ckdwh421@kookmin.ac.kr
 #blog logo
@@ -61,3 +61,8 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
+comment:
+  provider: "disqus"
+  disqus:
+    shortname:  "changjo"
