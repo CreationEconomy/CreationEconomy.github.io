@@ -6,7 +6,7 @@ permalink: /about/
 
 BLOG
 ---
-by 20213064 이창조
+by 이창조
 <br>
 
 ##  Features
