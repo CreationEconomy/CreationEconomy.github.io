@@ -77,4 +77,5 @@ _layouts/post.html 수정
 ### favicon 기능
 ----
 템플릿에 favicon이 적용 되어있음
+<br>
 assets/images/favicon.png를 수정하여 바로가기 이미지 교체
