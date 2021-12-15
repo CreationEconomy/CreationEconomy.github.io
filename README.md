@@ -1,4 +1,4 @@
-#BLOG
+##BLOG
 by 20213064 이창조
 <br>
 
@@ -72,6 +72,7 @@ _layouts/post.html 수정
 > comments: true
 
 <br>
+
 ### favicon 기능
 ----
 템플릿에 favicon이 적용 되어있음
