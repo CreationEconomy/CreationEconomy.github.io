@@ -4,14 +4,11 @@ title: About
 permalink: /about/
 ---
 
-BLOG
----
+### BLOG
 by 이창조
-<br>
 
-##  Features
+###  Features
 - Jekyll
 - 템플릿 적용
 - 댓글 기능 구현
 - favicon
-<br>
