@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### BLOG
-by 이창조
+blog by 이창조
 
 ###  Features
 - Jekyll
